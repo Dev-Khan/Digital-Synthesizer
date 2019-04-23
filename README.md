@@ -7,5 +7,5 @@ A Digital Synthesizer written in Python
  - Add filter design for more sound customization 
  - Add audio feedback loop for sound recording and off loading
  
- -- Long term:
+ ###### Long term:
     - Convert from pygame to sounddevice for audio streaming
